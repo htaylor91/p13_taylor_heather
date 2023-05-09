@@ -1,4 +1,4 @@
-import '../styles/account.css'
+import '../../styles/account.css'
 
 export type AccountProps = {
     title: string,
