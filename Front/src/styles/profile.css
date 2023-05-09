@@ -1,0 +1,17 @@
+.edit-button, .save-button, .cancel-button {
+    border-color: var(--color-light-green);
+    background-color: var(--color-light-green);
+    color: var(--color-white);
+    font-weight: bold;
+    padding: 5px;
+    width: 110px;
+}
+
+.header {
+    color: var(--color-white);
+    margin-bottom: 2rem;
+}
+
+.header > h2 {
+    padding-block: 20px;
+}
