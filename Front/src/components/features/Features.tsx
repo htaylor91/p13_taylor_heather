@@ -1,9 +1,9 @@
 import FeatureItem from "./FeatureItem"
 import type { FeatureItemProps } from "./FeatureItem"
-import chatIcon from "../assets/icon-chat.png"
-import moneyIcon from "../assets/icon-money.png"
-import securityIcon from "../assets/icon-security.png"
-import '../styles/Features.css'
+import chatIcon from "../../assets/icon-chat.png"
+import moneyIcon from "../../assets/icon-money.png"
+import securityIcon from "../../assets/icon-security.png"
+import '../../styles/Features.css'
 
 const features: FeatureItemProps[] = [
     {
