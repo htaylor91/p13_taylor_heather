@@ -72,14 +72,16 @@ You can skip forking and cloning the back-end repository, since it is included i
 
 2. See the instructions in the [Back-end ReadMe](https://github.com/htaylor91/p13_taylor_heather/tree/master/Back#readme) to install the dependencies, launch the back-end, populate the database, and see the API documentation.
 
-3. In the .env file of the back-end repository, verify that you have the updated DATABASE_URL:
+3. In the Back/server/database/connection.js file of the back-end repository, verify that you have the updated database URL:
 
     ```bash
     # original URL
-    DATABASE_URL="mongodb://localhost/argentBankDB"
+    const databaseUrl =
+        process.env.DATABASE_URL || 'mongodb://localhost/argentBankDB'
 
     # updated URL
-    DATABASE_URL="mongodb://127.0.0.1/argentBankDB"
+    const databaseUrl =
+        process.env.DATABASE_URL || 'mongodb://127.0.0.1/argentBankDB'
     ```
 
 ---
