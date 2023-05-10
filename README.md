@@ -58,7 +58,7 @@ Argent Bank is a new start-up in the banking industry.
 
     ---
 
-## Install and launch the back-end
+### Install and launch the back-end
 
 You can skip forking and cloning the back-end repository, since it is included in this repository.
 
