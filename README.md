@@ -95,3 +95,6 @@ You can skip forking and cloning the back-end repository, since it is included i
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&labelColor=000)
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=1572b6&labelColor=000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&labelColor=000)
+
+### Quick Link
+[YAML swagger file of proposed API models with endpoints required for phase 2: Transactions](https://github.com/htaylor91/p13_taylor_heather/blob/master/Back/swagger.yaml)
