@@ -97,4 +97,4 @@ You can skip forking and cloning the back-end repository, since it is included i
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&labelColor=000)
 
 ### Quick Link
-[YAML swagger file of proposed API models with endpoints required for phase 2: Transactions](https://github.com/htaylor91/p13_taylor_heather/blob/master/Back/swagger.yaml)
+[YAML swagger file of proposed API models with endpoints required for phase 2: Transactions](https://github.com/taylorfullstack/p13_taylor_heather/blob/master/Back/swagger.yaml)
